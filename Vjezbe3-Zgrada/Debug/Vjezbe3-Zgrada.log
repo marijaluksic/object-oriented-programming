@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Marija\source\repos\Vjezbe3-Zgrada\Source.cpp(75,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marija\source\repos\Vjezbe3-Zgrada\Source.cpp(81,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marija\source\repos\Vjezbe3-Zgrada\Source.cpp(91,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marija\source\repos\Vjezbe3-Zgrada\Source.cpp(101,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marija\source\repos\Vjezbe3-Zgrada\Source.cpp(108): warning C4715: 'Zgrada::nadjiStan3': not all control paths return a value
+C:\Users\Marija\source\repos\Vjezbe3-Zgrada\Source.cpp(105): warning C4172: returning address of local variable or temporary: st3
+C:\Users\Marija\source\repos\Vjezbe3-Zgrada\Source.cpp(98): warning C4715: 'Zgrada::nadjiStan2': not all control paths return a value
+C:\Users\Marija\source\repos\Vjezbe3-Zgrada\Source.cpp(95): warning C4172: returning address of local variable or temporary: st2
+  Vjezbe3-Zgrada.vcxproj -> C:\Users\Marija\source\repos\Vjezbe3-Zgrada\Debug\Vjezbe3-Zgrada.exe

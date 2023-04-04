@@ -1,0 +1,2 @@
+C:\Users\Marija\source\repos\Vjezbe7-Osoba_i_Student-javno nasljedivanje, overriding, staticko polje\Debug\Vjezbe7-Osoba_i_Student-javno nasljedivanje, overriding, staticko polje.exe
+C:\Users\Marija\source\repos\Vjezbe7-Osoba_i_Student-javno nasljedivanje, overriding, staticko polje\Debug\Vjezbe7-Osoba_i_Student-javno nasljedivanje, overriding, staticko polje.pdb

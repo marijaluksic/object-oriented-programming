@@ -1,0 +1,2 @@
+C:\Users\Marija\source\repos\Vjezbe6-Matrica,kopirni konstruktor, operator pridruzivanja\Debug\Vjezbe6-Matrica,kopirni konstruktor, operator pridruzivanja.exe
+C:\Users\Marija\source\repos\Vjezbe6-Matrica,kopirni konstruktor, operator pridruzivanja\Debug\Vjezbe6-Matrica,kopirni konstruktor, operator pridruzivanja.pdb

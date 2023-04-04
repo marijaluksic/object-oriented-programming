@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Marija\source\repos\Vjezbe8-Obrada stringa\Source.cpp(23,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marija\source\repos\Vjezbe8-Obrada stringa\Source.cpp(33,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marija\source\repos\Vjezbe8-Obrada stringa\Source.cpp(49,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marija\source\repos\Vjezbe8-Obrada stringa\Source.cpp(64,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marija\source\repos\Vjezbe8-Obrada stringa\Source.cpp(75,21): warning C4101: 'unit': unreferenced local variable
+  Vjezbe8-Obrada stringa.vcxproj -> C:\Users\Marija\source\repos\Vjezbe8-Obrada stringa\Debug\Vjezbe8-Obrada stringa.exe

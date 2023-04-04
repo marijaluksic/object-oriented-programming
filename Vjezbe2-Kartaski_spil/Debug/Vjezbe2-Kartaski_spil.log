@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Marija\source\repos\Vjezbe2-Kartaski_spil\Source.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marija\source\repos\Vjezbe2-Kartaski_spil\Source.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marija\source\repos\Vjezbe2-Kartaski_spil\Source.cpp(62,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Marija\source\repos\Vjezbe2-Kartaski_spil\Source.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+  Vjezbe2-Kartaski_spil.vcxproj -> C:\Users\Marija\source\repos\Vjezbe2-Kartaski_spil\Debug\Vjezbe2-Kartaski_spil.exe
