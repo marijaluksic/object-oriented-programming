@@ -46,14 +46,14 @@ public:
         naslov = knjiga.naslov;
         izdavac = knjiga.izdavac;
     }
-    // -> prijenosni konstruktor (2 boda)
+    // -> prijenosni konstruktor 
     Knjiga(Knjiga&& knjiga) {
         autor = knjiga.autor;
         knjiga.autor = NULL;
         naslov = knjiga.naslov;
         izdavac = knjiga.izdavac;
     }
-    // -> operator = (semantika prijenosa) (2 boda)
+    // -> operator = (semantika prijenosa) 
     Knjiga& operator = (Knjiga&& knjiga) {
         if (this != &knjiga) {
             delete autor;
@@ -64,7 +64,7 @@ public:
         }
         return *this;
     }
-    // -> destruktor (1 bod)
+    // -> destruktor
     ~Knjiga() {
         delete autor;
     }
@@ -77,13 +77,13 @@ class Knjiznica {
 public:
     vector<Knjiga*> knjiga;
     Knjiznica() {}
-    // -> kopirni konstruktor (3 boda)
+    // -> kopirni konstruktor 
     Knjiznica(const Knjiznica& knjiznica) {
         for (int i = 0; i < knjiznica.knjiga.size(); i++) {
             knjiga.push_back(new Knjiga(*knjiznica.knjiga[i]));
         }
     }
-    // -> operator = (semantika kopiranja) (3 boda)
+    // -> operator = (semantika kopiranja) 
     Knjiznica& operator =(const Knjiznica& knjiznica) {
         if (this != &knjiznica) {
             for (int i = 0; i < knjiga.size(); i++) {
@@ -95,7 +95,7 @@ public:
             }
         }
     }
-    // -> destruktor (1 bod)  
+    // -> destruktor  
     ~Knjiznica() {
         for (int i = 0; i < knjiga.size(); i++) {
             delete knjiga[i];
